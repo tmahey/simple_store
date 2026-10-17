@@ -22,3 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+rails db:seed
+rails server
+http://localhost:3000/products
