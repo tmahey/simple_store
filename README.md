@@ -27,6 +27,9 @@ rails db:seed
 rails server
 http://localhost:3000/products
 
+git add .
+git commit -m "YOUR_CMNT"
+
 git remote add origin https://github.com/tmahey/simple_store.git
 git branch -M main
 git push -u origin main
