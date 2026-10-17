@@ -26,3 +26,7 @@ Things you may want to cover:
 rails db:seed
 rails server
 http://localhost:3000/products
+
+git remote add origin https://github.com/tmahey/simple_store.git
+git branch -M main
+git push -u origin main
